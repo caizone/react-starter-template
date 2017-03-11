@@ -1,0 +1,45 @@
+{
+  "name": "react-starter-template",
+  "version": "0.0.1",
+  "description": "the simplified react starter template for create some demo Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caizone/react-starter-template.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "caizone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caizone/react-starter-template/issues"
+  },
+  "homepage": "https://github.com/caizone/react-starter-template#readme",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.27.1",
+    "express": "^4.15.2",
+    "node-sass": "^4.5.0",
+    "open-browser-webpack-plugin": "0.0.5",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "^1.3.1",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.0",
+    "webpack-dev-middleware": "^1.10.1",
+    "webpack-dev-server": "^2.4.1",
+    "webpack-hot-middleware": "^2.17.1"
+  }
+}
